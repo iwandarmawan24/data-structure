@@ -1,12 +1,11 @@
 **THIS IS A LIST THAT CONTAINS MY ALGORITHM AND DATA STRUCTURE JOURNEY.**
-
 ### Sub-Topics : 
+
 <details>
-  <summary>
-    - #### Array and Hashing
-  ------------
-  </summary>
-  - [ ] Contains Duplicate	
+<summary>
+  #### Array and Hashing
+</summary>
+- [ ] Contains Duplicate	
 - [ ] Valid Anagram	
 - [ ] Concatenation of Array	
 - [ ] Replace Elements With Greatest Element On Right Side	
@@ -66,3 +65,5 @@
 - [ ] Text Justification	
 - [ ] Naming a Company
 </details>
+###
+
